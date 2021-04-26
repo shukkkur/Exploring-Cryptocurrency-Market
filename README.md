@@ -1,8 +1,7 @@
 # Exploring-Cryptocurrency-Market
 
 ![Forks](https://img.shields.io/github/forks/shukkkur/Exploring-Cryptocurrency-Market.svg)
-![Stars](https:
-//img.shields.io/github/stars/shukkkur/Exploring-Cryptocurrency-Market.svg)
+![Stars](https://img.shields.io/github/stars/shukkkur/Exploring-Cryptocurrency-Market.svg)
 ![Watchers](https://img.shields.io/github/watchers/shukkkur/Exploring-Cryptocurrency-Market.svg)
 ![Last Commit](https://img.shields.io/github/last-commit/shukkkur/Exploring-Cryptocurrency-Market.svg) 
 
